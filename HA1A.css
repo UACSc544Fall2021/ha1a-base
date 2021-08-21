@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    overflow: none;
+    font: 12pt sans-serif;
+}
+
+h3 {
+    margin: 0px 0px 5px 0px;
+    font: 16pt sans-serif;
+}
+
+li {
+    margin: 5px;
+}
+
+.outer {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.questionnaire {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.halabel {
+    font-weight: bold;
+}
+
+.percentages {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.visualization {
+    padding: 10px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 700px;
+}
